@@ -3833,7 +3833,9 @@ section {
   text-align: right;
 }
 
-
+.custom_checkbox {
+  gap: 10px;
+}
 
 
 
